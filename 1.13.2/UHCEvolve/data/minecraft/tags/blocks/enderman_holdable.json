@@ -1,0 +1,23 @@
+{
+	"replace":true,
+	"values":[
+    	"minecraft:sand",
+    	"minecraft:red_sand",
+    	"minecraft:gravel",
+    	"minecraft:tnt",
+    	"minecraft:melon",
+    	"minecraft:netherrack",
+		"minecraft:chest",
+		"minecraft:trapped_chest",
+		"minecraft:torch",
+		"minecraft:redstone_torch",
+		"minecraft:crafting_table",
+		"minecraft:farmland",
+		"minecraft:furnace",
+		"minecraft:enchanting_table",
+		"minecraft:bookshelf",
+		"minecraft:sugar_cane",
+		"#minecraft:saplings",
+		"#minecraft:anvil"
+		]
+}

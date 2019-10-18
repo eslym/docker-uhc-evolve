@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+  	"minecraft:bat",
+  	"minecraft:cave_spider",
+  	"minecraft:creeper",
+  	"minecraft:enderman",
+    "minecraft:endermite",
+  	"minecraft:husk",
+  	"minecraft:silverfish",
+    "minecraft:skeleton",
+    "minecraft:slime",
+    "minecraft:spider",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:zombie"
+  ]
+}
